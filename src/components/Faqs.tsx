@@ -60,10 +60,10 @@ const FaqSection = () => {
             <div className="mx-auto mb-[60px] max-w-[520px] text-center lg:mb-20">
               <span className="mb-2 block text-lg font-semibold text-blue-600">FAQ</span>
               <h2 className="mb-4 text-3xl font-bold text-dark sm:text-[40px]/[48px] dark:text-white">
-                Any Questions? We've Got Answers
+                Any Questions? We Have Got Answers
               </h2>
               <p className="text-base text-body-color dark:text-dark-6">
-                Curious about how SEO works or what goes into building a high-performing website? We've answered some of the most common questions to help you get started.
+                Curious about how SEO works or what goes into building a high-performing website? We Have answered some of the most common questions to help you get started.
               </p>
             </div>
           </div>
